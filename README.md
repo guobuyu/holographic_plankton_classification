@@ -3,11 +3,9 @@ Automated Plankton Classification from Holographic Imagery with Deep Convolution
 Citation
 If you find this work or code is helpful in your research, please cite:
 
-@inproceedings{
-  title={Automated Plankton Classification from Holographic Imagery with Deep Convolutional Neural Networks},
-  author={Buyu Guo and Lisa Nyman and Aditya R. Nayak and David Milmore and Malcolm McFarland and Michael S. Twardowski and James M. Sullivan and Jia Yu and Jiarong Hong},
-  journal={Limnology and oceangraphy: Method},
-}
+title={Automated Plankton Classification from Holographic Imagery with Deep Convolutional Neural Networks},
+author={Buyu Guo and Lisa Nyman and Aditya R. Nayak and David Milmore and Malcolm McFarland and Michael S. Twardowski and James M. Sullivan and Jia Yu and Jiarong Hong},
+
 
 ## Table of Contents
 * [Installation](#installation)
