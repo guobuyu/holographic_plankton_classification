@@ -9,9 +9,8 @@ If you find this work or code is helpful in your research, please cite:
   journal={Limnology and oceangraphy: Method},
 }
 
-## Table of Contents (optional)
+## Table of Contents
 * [Installation](#installation)
-* [Tests](#tests)
 * [Instructions for Use](#instructions-for-use)
 
 
