@@ -84,7 +84,6 @@ adaptPare1: https://docs.opencv.org/master/d9/d61/tutorial_py_morphological_ops.
 adaptPare2: https://docs.opencv.org/master/d9/d61/tutorial_py_morphological_ops.html
 morphPara1: https://docs.opencv.org/master/d9/d61/tutorial_py_morphological_ops.html
 
-# ---------------------------net parameters
 outputPath: output path
 inputSize: no need to be same with training para
 batchSize: 
